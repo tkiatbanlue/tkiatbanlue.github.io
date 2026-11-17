@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#1D6CE0" />
+  <rect x="28" y="28" width="456" height="456" rx="88" stroke="#0F172A" stroke-width="14" stroke-opacity="0.14" />
+  <!-- Detergent bottle silhouette with navy outline -->
+  <path
+    d="M212 96H300C308.837 96 316 103.163 316 112V138H196V112C196 103.163 203.163 96 212 96Z"
+    fill="#93C5FD"
+    stroke="#0F172A"
+    stroke-width="18"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M196 138H316L364 202C374.5 216 380 233 380 250.5V380C380 402.091 362.091 420 340 420H172C149.909 420 132 402.091 132 380V250.5C132 233 137.5 216 148 202L196 138Z"
+    fill="#FFFFFF"
+    stroke="#0F172A"
+    stroke-width="18"
+    stroke-linejoin="round"
+  />
+  <!-- Handle cutout -->
+  <rect
+    x="294"
+    y="214"
+    width="42"
+    height="86"
+    rx="21"
+    fill="#1D6CE0"
+    stroke="#0F172A"
+    stroke-width="14"
+  />
+  <!-- Price / Baht accent label -->
+  <rect x="168" y="226" width="96" height="120" rx="20" fill="#EFF6FF" stroke="#0F172A" stroke-width="12" />
+  <text
+    x="216"
+    y="306"
+    text-anchor="middle"
+    font-family="sans-serif"
+    font-weight="800"
+    font-size="68"
+    fill="#1D6CE0"
+  >
+    ฿
+  </text>
+</svg>
